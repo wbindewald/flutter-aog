@@ -1,6 +1,6 @@
-# aog
+# AOG - Alcool ou Gasolina
 
-A new Flutter project.
+Aplicativo desenvolvido no curso do balta.io onde foi abordado como dividir melhor o projeto.
 
 ## Getting Started
 
