@@ -1,6 +1,6 @@
 # AOG - Alcool ou Gasolina
 
-Aplicativo desenvolvido no curso do balta.io onde foi abordado como dividir melhor o projeto.
+Aplicativo desenvolvido no curso do balta.io.
 
 ## Getting Started
 
