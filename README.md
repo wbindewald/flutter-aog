@@ -2,9 +2,9 @@
 
 Aplicativo desenvolvido no curso do balta.io.
 
-
-![Screenshot_2020-07-31-08-57-43-934_com example aog](https://user-images.githubusercontent.com/25222849/89038106-b43aa800-d30d-11ea-897c-5de94cc44df7.jpg =50x50)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25222849/89038106-b43aa800-d30d-11ea-897c-5de94cc44df7.jpg" width="400" alt="accessibility text">
+</p>
 
 ## Getting Started
 
