@@ -3,7 +3,7 @@
 Aplicativo desenvolvido no curso do balta.io.
 
 
-![] https://github.com/wbindewald/flutter-aog/issues/1#issue-669792385
+![](https://github.com/wbindewald/flutter-aog/issues/1#issue-669792385)
 
 ## Getting Started
 
